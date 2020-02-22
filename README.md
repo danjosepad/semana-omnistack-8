@@ -23,14 +23,14 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#clipboard-documentação">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-documentação">Documentação</a>
 
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/tindev.png" width="100%">
+  <img alt="appScreens" src=".github/tindev.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
