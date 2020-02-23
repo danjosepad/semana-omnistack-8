@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img alt="appScreens" src=".github/tindev.png" width="100%">
+  <img alt="appScreens" src=".github/appScreens.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -40,7 +40,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
 
 ## 💻 Projeto
 
