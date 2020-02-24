@@ -1,21 +1,21 @@
 <h1 align="center">
-    <img alt="TinDev" title="titleImage" src=".github/logo.svg" width="250px" />
+    <img alt="TinDev" title="titleImage" src=".github/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
-  🚀 Semana OmniStack 8.0
+  🚀 Semana OmniStack 7.0
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danjosepad/semana-omnistack-8">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danjosepad/semana-omnistack-7">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danjosepad/semana-omnistack-8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danjosepad/semana-omnistack-7">
   
-  <a href="https://github.com/danjosepad/semana-omnistack-8/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danjosepad/semana-omnistack-8">
+  <a href="https://github.com/danjosepad/semana-omnistack-7/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danjosepad/semana-omnistack-7">
   </a>
 
-  <a href="https://github.com/danjosepad/semana-omnistack-8/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/danjosepad/semana-omnistack-8">
+  <a href="https://github.com/danjosepad/semana-omnistack-7/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/danjosepad/semana-omnistack-7">
   </a>
 
 </p>
@@ -43,11 +43,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O TinDev é um projeto que visa conectar desenvolvedores simulando um "tinder" para devs.
+Com o Instarocket é possível enviar, visualizar e curtir fotos de seus amigos!
 
 
 ## :clipboard: Documentação
 
-Para acessar a documentação, [cliqueaqui](link)
+Para acessar a documentação, [clique aqui](link)
 
 
